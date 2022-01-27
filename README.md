@@ -60,3 +60,5 @@ WantedBy=multi-user.target
 # systemctl start amdgpu_settings.service
 # systemctl enable amdgpu_settings.service
 ```
+
+Youtube video with description of this: https://youtu.be/pHXseoFYAfc
