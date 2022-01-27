@@ -1,4 +1,4 @@
-# AMD_RX_5XXXX_Series_GPUs_troubleshooting
+# AMD RX 5XXXX Series GPUs troubleshooting
 Instruction for fixing problems with AMD RX 5xxxx series GPU on Windows and Arch Linux
 
 Hello to all! I know that many people are expeirencing problems with AMD 5000 series graphics cards. I was no exception in this case. More than a year ago I bought an AMD 5600 XT video card from Gigabyte. Like many, in my case the problem lied in random crashes during games. I could play and suddenly see a green screen, after which the computer would restart. At the same time, the temperatures of the processor and video card were absolutely normal, and the resource consumption of the game had no effect on the frequency of crashes. Also the crashes were completely random in time. I could play for a week without problems or I could experience a crash 20 minutes after the start of the game. A couple of times the crash happened not in games even, but just while browsing Google Maps.
